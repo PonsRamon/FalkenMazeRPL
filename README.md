@@ -34,6 +34,7 @@ Para ejecutarlo, desde el cmd, introduciremos el comando javafx:run
 
 - Para colocar el bloque en el tablero hay que clicar en la celda donde lo queremos colocar.
 
+- Para eliminar bloques seleccionar la papelera y clicar en el bloque que se quiera borrar.
 ![image](https://github.com/PonsRamon/FalkenMazeRPL/assets/158313461/6c364a52-ba05-4a66-a169-84af08a928a0)
 
 - Está la posibilidad de cambiar el tamaño del tablero. Para ello accederemos al menú Archivo/Nuevo e introduciremos los valores que queramos.
@@ -48,6 +49,9 @@ Para ejecutarlo, desde el cmd, introduciremos el comando javafx:run
 - Desde el menú  Options podemos:
   1. Sound: cargar un archivo de auido.
   2. Time:
+
+![image](https://github.com/PonsRamon/FalkenMazeRPL/assets/158313461/c26d96dd-29df-4e72-85c9-82bc6ee71a9b)
+
 
 - Para salir:
   1. Archivo/Salir
