@@ -1,0 +1,66 @@
+@options
+@packages
+-classpath
+'/home/ramponlop/.m2/repository/org/openjfx/javafx-graphics/16/javafx-graphics-16.jar:/home/ramponlop/.m2/repository/org/openjfx/javafx-graphics/16/javafx-graphics-16-linux.jar:/home/ramponlop/.m2/repository/org/openjfx/javafx-base/16/javafx-base-16.jar:/home/ramponlop/.m2/repository/org/openjfx/javafx-base/16/javafx-base-16-linux.jar:/home/ramponlop/.m2/repository/com/jfoenix/jfoenix/9.0.10/jfoenix-9.0.10.jar:/home/ramponlop/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1.jar:/home/ramponlop/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1-linux.jar:/home/ramponlop/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/3.0.1/jakarta.xml.bind-api-3.0.1.jar:/home/ramponlop/.m2/repository/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar:/home/ramponlop/.m2/repository/com/sun/xml/bind/jaxb-impl/3.0.2/jaxb-impl-3.0.2.jar:/home/ramponlop/.m2/repository/com/sun/xml/bind/jaxb-core/3.0.2/jaxb-core-3.0.2.jar:/home/ramponlop/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FalkensMaze 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'FalkensMaze 1.0-SNAPSHOT API'
+pedro.ieslaencanta.com.falkensmaze.components
+pedro.ieslaencanta.com.falkensmaze.model
+pedro.ieslaencanta.com.falkensmaze
+/home/ramponlop/.m2/repository/org/openjfx/javafx-graphics/16/javafx-graphics-16.jar = 1715365968052
+/home/ramponlop/.m2/repository/org/openjfx/javafx-graphics/16/javafx-graphics-16-linux.jar = 1715365968112
+/home/ramponlop/.m2/repository/org/openjfx/javafx-base/16/javafx-base-16.jar = 1715365968056
+/home/ramponlop/.m2/repository/org/openjfx/javafx-base/16/javafx-base-16-linux.jar = 1715365968120
+/home/ramponlop/.m2/repository/com/jfoenix/jfoenix/9.0.10/jfoenix-9.0.10.jar = 1715365968172
+/home/ramponlop/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1.jar = 1715365968088
+/home/ramponlop/.m2/repository/org/openjfx/javafx-controls/17.0.0.1/javafx-controls-17.0.0.1-linux.jar = 1715365968208
+/home/ramponlop/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/3.0.1/jakarta.xml.bind-api-3.0.1.jar = 1715365968148
+/home/ramponlop/.m2/repository/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar = 1715365968152
+/home/ramponlop/.m2/repository/com/sun/xml/bind/jaxb-impl/3.0.2/jaxb-impl-3.0.2.jar = 1715365968228
+/home/ramponlop/.m2/repository/com/sun/xml/bind/jaxb-core/3.0.2/jaxb-core-3.0.2.jar = 1715365968204
+/home/ramponlop/.m2/repository/com/google/code/gson/gson/2.9.0/gson-2.9.0.jar = 1715365968220
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/src/main/java = 1714743562000
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/allclasses-index.html = 1715782963121
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/allclasses.html = 1715782963128
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/allpackages-index.html = 1715782963123
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/constant-values.html = 1715782963056
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/deprecated-list.html = 1715782963126
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/element-list = 1715782963039
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/help-doc.html = 1715782963134
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/index-all.html = 1715782963117
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/index.html = 1715782963131
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/jquery-ui.overrides.css = 1715782963156
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/member-search-index.js = 1715782963115
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/member-search-index.zip = 1715782963116
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/overview-summary.html = 1715782963132
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/overview-tree.html = 1715782963100
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/package-search-index.js = 1715782963112
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/package-search-index.zip = 1715782963113
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/script.js = 1715782963137
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/search.js = 1715782963139
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/serialized-form.html = 1715782963064
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/stylesheet.css = 1715782963136
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/type-search-index.js = 1715782963114
+/media/ramponlop/Ramon USB/1ºDAM/Entornos de Desarrollo/Ejercicios Resueltos/Documentación/falkensmaze/target/site/apidocs/type-search-index.zip = 1715782963114
